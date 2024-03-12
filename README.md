@@ -1,4 +1,4 @@
-## <p align="center">👋, my name is Mykola</p>
+## <p align="center">Hello👋, my name is Mykola</p>
  
 
 
@@ -32,13 +32,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Skills" align="left" width="60" height="80"/> 
-## 
-
-
-
-
-
-
+ 
 
 
 
