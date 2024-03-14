@@ -34,7 +34,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Skills"  width="60" height="80"/> 
  </p>
 
-<br><br><br>
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mykola1612&show_icons=true&locale=en&layout=compact" alt="Most used languages" align="left"/>
 
 
